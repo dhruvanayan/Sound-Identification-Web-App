@@ -1,0 +1,30 @@
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background: #E2E8DD;
+}
+
+.header_div
+  {
+  background: lightblue;
+  color: white; 
+  }
+
+  .header_div p{
+    font-family: 'georgia', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'georgia', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+
+.copy_right_footer{
+    text-align: center;
+    margin-bottom: 0px;
+}
